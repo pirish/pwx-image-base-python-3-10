@@ -34,3 +34,6 @@ FROM pwx-image-base-python-3-10:latest
 ## Maintenance
 
 The GitHub Action automatically builds and pushes the image on changes to the `main*` branches.
+
+
+[![Dockerfile Build](https://github.com/pirish/pwx-image-base-python-3-10/actions/workflows/build.yaml/badge.svg)](https://github.com/pirish/pwx-image-base-python-3-10/actions/workflows/build.yaml)
